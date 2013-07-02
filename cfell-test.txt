@@ -1,3 +1,3 @@
-1Test 
-2
-4Hallo Test MERGE.
+Ein neuer Test 
+Hier ist was anders
+MEINS Hallo Test MERGE.
